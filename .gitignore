@@ -1,0 +1,24 @@
+# Go binary files
+*.exe
+*.test
+*.out
+
+.env
+
+# Dependency directories
+/vendor/
+
+# Go workspace
+/Godeps/
+
+# Go build output
+/build/
+/bin/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
